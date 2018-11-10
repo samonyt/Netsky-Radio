@@ -1,3 +1,5 @@
+[![Discord Bots](https://discordbots.org/api/widget/394943099354480640.svg)](https://discordbots.org/bot/394943099354480640)
+
 # Netsky-Radio
 Make an Issue if something is wrong!
 
