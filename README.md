@@ -4,7 +4,8 @@
 Make an Issue if something is wrong!
 
 ## Contributors
-Sam - samonyt#0001 - https://twitter.com/samonyt  
+Sam - samonyt#0001 - https://twitter.com/samonyt
+Espi#1154 - https://twitter.com/espiuwu  
 Mason - Mason#4146  
 Matt - Matt.#9039 - https://twitter.com/mattski900  
 Tish - Tishy#6814 - https://twitter.com/TishyXT
