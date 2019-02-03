@@ -9,4 +9,4 @@ Espi#1154 - https://twitter.com/espiuwu
 Mason - Mason#4146  
 Matt - Matt.#9039 - https://twitter.com/mattski900  
 Tish - Tishy#6814 - https://twitter.com/TishyXT  
-Dan#7528 - https://twitter.com/DanFromDiscord
+Dan#7528 - https://danjamesbee.tk/
